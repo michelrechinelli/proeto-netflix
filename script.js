@@ -5,4 +5,4 @@ function toggVideo(){
 
     video.currentTime = 0;
     video.pause();
-}
+}//problema com o codigo !
