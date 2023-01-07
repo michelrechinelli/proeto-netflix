@@ -53,10 +53,12 @@ header .meunu li:hover a{
 }
 .banner .bg {
    position: absolute;
+   margin: 20px;
    top: 0;
    left: 0;
    width: 100%;
    height: 100%;
    object-fit: cover;
-   border-radius: 40px; 
+   
+   
 }
